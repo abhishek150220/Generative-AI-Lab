@@ -1,0 +1,5 @@
+{
+  "name": "Vision Transformer (ViT) Visualizer",
+  "description": "An interactive step-by-step visualization of the Vision Transformer architecture, from image patching to positional encoding and encoder blocks.",
+  "requestFramePermissions": []
+}
